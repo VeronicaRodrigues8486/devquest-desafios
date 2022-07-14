@@ -1,0 +1,22 @@
+table{
+    margin: 30px;
+}
+
+.classificacao-produto{
+    background-color: #BB86FC ;
+    color: white;
+    padding: 30px;
+}
+
+.classificacao-casa{
+    background-color: #00C4B4;
+    color: white;
+}
+
+td{
+    background-color:#424250;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    
+}
